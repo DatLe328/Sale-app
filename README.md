@@ -7,7 +7,7 @@ The mobile phone store software has basic functions.
 # Installation
 - Change MySQL's password and schema's name in \_\_init__.py file.
 - Create virtualenv.
-- Run dao.py file to init database
+- Run models.py file to init database
 # Run app in terminal:
 ## Windows
 ```shell
